@@ -1,7 +1,10 @@
 # Laravel Order Processing System
 
 ## Installation and Setup
+**Clone the Repository**
 
+   git clone https://github.com/Vanithakur/oder_processing.git
+   
 1. **Install PHP dependencies**
 
    composer install
